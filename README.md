@@ -7,4 +7,4 @@ This documentation describes Open Hardware and is licensed under the CERN OHL v.
 
 **The full text of the license is available in toradex-Apalis-t30-enclosure/LICENSE.pdf**
 
-**[OSHW] IN000006 | Certified open source hardware | oshwa.org/cert**
+' [OSHW] IN000006 | Certified open source hardware | oshwa.org/cert '
